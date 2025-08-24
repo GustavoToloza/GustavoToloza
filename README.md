@@ -59,3 +59,8 @@ I am passionate about continuously learning and applying my knowledge to practic
   </a>
 </p>
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+
+<p align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=GustavoToloza&include_all_commits=true&show_icons=true&theme=radical" height="250">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoToloza&layout=compact&hide=css&theme=radical" alt="Intellij" height="250">
+</p>

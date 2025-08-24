@@ -7,7 +7,7 @@
 I am passionate about continuously learning and applying my knowledge to practical projects, especially in areas such as:
 <br>
 
-<img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
+<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" width="400" /></p>
 
 <br>
 - 💻 Web development (FrontEnd and BackEnd)<br>
